@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Leozzinnho&label=Profile%20views&color=0e75b6&style=flat" alt="Leozzinnho" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Leo</h1>
+<h1 align="center">Hi 👋, I'm Christina</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="center">
